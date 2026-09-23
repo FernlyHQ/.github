@@ -1,0 +1,2 @@
+# .github
+Ideas grow here.
