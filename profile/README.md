@@ -10,12 +10,12 @@ We build our own products, solve interesting technical problems, and occasionall
 
 Our work spans:
 
-- **Software products** — focused SaaS tools designed to solve specific problems well
-- **Automation** — removing repetitive work and connecting systems intelligently
-- **Applications** — practical, reliable software for real-world use
-- **Integrations** — making existing platforms and data work better together
-- **Prototypes & experiments** — exploring ideas quickly and learning what is worth building
-- **Custom Hardware** - Custom-built and developed hardware for businesses.
+- **Software products** : focused SaaS tools designed to solve specific problems well
+- **Automation** : removing repetitive work and connecting systems intelligently
+- **Applications** : practical, reliable software for real-world use
+- **Integrations** : making existing platforms and data work better together
+- **Prototypes & experiments** : exploring ideas quickly and learning what is worth building
+- **Custom Hardware** : Custom-built and developed hardware for businesses.
 
 We like small, focused products over unnecessarily complicated platforms.
 
