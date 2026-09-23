@@ -1,6 +1,6 @@
-# Fernly
+# Fernly 👋🏻
 
-**Useful software. Thoughtfully built.**
+**Ideas grow here.**
 
 Fernly is a small technology company from Aotearoa New Zealand, creating software, custom hardware, SaaS digital products and automation that make work simpler.
 
