@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/fernly-github-cover.jpg" alt="Fernly" width="100%">
+  <img src="assets/fernly-github-cover.jpg" alt="Fernly" width="100%">
 </p>
 
 # Fernly 👋🏻
