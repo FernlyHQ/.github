@@ -2,90 +2,88 @@
   <img src="assets/fernly-github-cover.jpg" alt="Fernly" width="100%">
 </p>
 
-# Fernly 👋🏻
+# Fernly 🌿
 
 **Ideas grow here.**
 
-Fernly is a small technology company from Aotearoa New Zealand, building software, SaaS products, automation and custom hardware that make work simpler.
+Fernly explores ideas, researches problems and builds useful technology for New Zealand industry and beyond.
 
-We build our own products, solve interesting problems and work with businesses to turn good ideas into useful technology.
+We are a NZ-first technology products company creating software, SaaS products, automation, connected hardware and new technology around real-world problems.
+
+We build our own products, experiment with ideas, and work alongside organisations when there is an interesting problem worth solving.
 
 ## What we build
 
-- **Software products** : focused SaaS tools that solve real problems
-- **Automation** : removing repetitive work and connecting systems
-- **Applications** : practical, reliable software for the real world
-- **Integrations** : helping platforms and data work better together
-- **Prototypes & experiments** : testing ideas quickly and learning what is worth building
-- **Custom hardware** : purpose-built hardware for real business needs
+Our work can include:
 
-We like focused products, practical solutions and keeping unnecessary complexity out of the way.
+- **SaaS products** focused on solving specific problems well
+- **Software platforms and applications**
+- **Automation and integrations**
+- **Connected hardware and IoT**
+- **Manufacturing and operational technology**
+- **Prototypes, experiments and new product ideas**
 
-## Who we work with
+Sometimes the answer is software.
 
-We work across a mix of industries and technology environments, including:
+Sometimes it is hardware.
 
-- B2B & SaaS
-- Government & Public Sector
+Sometimes it is both.
+
+And sometimes the best solution is much simpler than the technology we could build.
+
+## Where we're interested
+
+We are especially interested in problems across:
+
+- Manufacturing & Operations
+- AgTech & FarmTech
+- GreenTech
 - MedTech
 - FinTech
-- AgTech
-- Manufacturing & Operations
-- Startups & Emerging Products
+- Government & Public Sector
+- B2B
+- SaaS and emerging technology
 
-## How we work
+These are areas of interest, not boxes we intend to stay inside.
 
-**Keep it useful**  
-Technology should solve a problem, not create another one.
+If we find an interesting problem worth solving, we will explore it.
 
-**Keep it simple**  
-Simple software is easier to understand, maintain and improve.
+## How we think
 
-**Build thoughtfully**  
-Good engineering matters, even when nobody sees it.
+We start with the problem, not the technology.
 
-**Automate the boring stuff**  
-People should spend more time doing useful work and less time moving data around.
+We like getting close to how things actually work. Visiting businesses, talking to people, understanding existing systems and processes, and asking why things are done the way they are.
 
-**Ship, learn, improve**  
-The best products get better through real-world use.
-
-## Technology
+We research, experiment, prototype and build.
 
 We choose technology based on the problem, not the trend.
 
-`Go` · `JavaScript` · `TypeScript` · `Swift` · `Python` · `PostgreSQL` · `SQLite` · `APIs` · `Cloud` · `Automation` · `AI` · `...and plenty more`
+## AI
 
-## How we build
+We use AI as a tool to move faster, explore ideas and improve productivity, but never as a replacement for experience, engineering judgement, research or quality.
 
-Fernly is built around an experienced New Zealand development team with real-world knowledge across software, technology and the industries we work in.
+## Built from New Zealand
 
-We bring experience, lessons learned and a good understanding of where technology has come from, where it is going, and what actually makes sense for the business.
+Fernly is built around experienced technology people with real-world knowledge across software, hardware, systems and industry.
 
-**We write code.**
+We are proudly New Zealand focused and interested in solving problems for New Zealand businesses and industries first.
 
-We use AI as a tool to move faster, explore ideas and improve productivity, but never as a replacement for experience, engineering judgement or quality.
+But many of those problems are not unique to New Zealand.
 
-We understand the code we deliver, how it works and the infrastructure it runs on.
+When we build something useful here, we are happy to take it further.
 
-Our software and hardware projects follow structured development practices across architecture, design, development, testing and deployment, with quality, security and future growth in mind.
+## What Fernly becomes
 
-When working with clients and external teams, we keep things collaborative and transparent, with clear milestones, working deliverables and regular feedback.
+Fernly may become home to multiple products, platforms and businesses.
 
-We're not here to churn out disposable software.
+Some products may carry the Fernly name. Others may grow into brands of their own.
 
-We combine modern tools, automation and AI with proven engineering practices, practical experience and a little old-school technical knowledge.
+We are not in a rush to define the edges.
 
-**Modern technology. Experienced people. Thoughtful engineering.**
+We would rather keep exploring, building and seeing where the best ideas lead.
 
-## Open source
+---
 
-Where it makes sense, we'll share useful tools, libraries, examples and experiments with the wider developer community.
+**Ideas grow here. 🌿**
 
-## Fernly
-
-**Ideas grow here.**
-
-Building useful things from New Zealand.
-
-🌿 **fernly.nz**
+*Exploring ideas, researching problems and building useful technology for New Zealand industry and beyond.*
